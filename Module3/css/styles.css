@@ -1,0 +1,44 @@
+#header-nav{
+   
+    background-color: rgba(0, 255, 255, 0.178);*/
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+.navbar-toggler-icon{
+    color: red;
+}
+.navbar-toggle{
+   margin-right: 10px;
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3em;
+    color: black;
+}
+h2{
+    margin: 20px 0px 30px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+#header-nav .container{
+    margin-left:1%;
+}
+h3, p{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+#chicken{
+    padding: 5px 30px 30px;
+    margin-bottom: 30px;
+    background-color: rgba(255, 0, 0, 0.199);
+}
+#beef{
+    padding: 5px 30px 30px;
+    margin-bottom: 30px;
+    background-color: rgba(128, 0, 128, 0.164);
+}
+#sushi{
+    padding: 5px 30px 30px;
+    margin-bottom: 30px;
+    background-color: rgba(0, 0, 255, 0.212);
+}
