@@ -42,3 +42,6 @@ h3, p{
     margin-bottom: 30px;
     background-color: rgba(0, 0, 255, 0.212);
 }
+li a {
+    text-align: center;
+}
